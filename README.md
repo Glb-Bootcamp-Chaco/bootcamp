@@ -89,7 +89,7 @@ The Code Your Future bootcamp is organized in the following way:
 each trainee needs to read about the topics and jump into the coding excercises. An a Slack's channel by topic will be used to discuss with tutors and co-trainees about both theory and practice, and each on-site talk we are going to go through the outcome of Slack channel discussions, emphasizing about those topics that are causing more pain for all.
 
 Globant Workspace Slack's account would be used for technical assistance:
->#java-bootcamp-inditex-all
+>#TBD
 
 Every person participating in the bootcamp is present here (trainees and trainners). Here is the place to ask for technical assistance!
 
