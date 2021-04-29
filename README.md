@@ -76,7 +76,7 @@ When you feel like you are good to go with a practice code, let trainers know an
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
-5. Fork this repo https://github.corp.globant.com/carlos-lopez/bootcamp to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
+5. Fork this repo to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 6. Each Topic Practice should be commited into a folder with <*your_name>/topic<#>*. Example: ***pepito_perez/topic0***
 → [index](#index)
 
