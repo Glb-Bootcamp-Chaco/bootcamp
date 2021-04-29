@@ -262,9 +262,9 @@ Commit your practice code, whatever you have accomplished.
 # Optional Topic: Database Interaction and ORMs
 
 ## Reading:
-1. [MySql basis](http://www.vogella.com/tutorials/MySQL/article.html)
+1. [MySql basics](http://www.vogella.com/tutorials/MySQL/article.html)
 2. [SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-3. [Jdbc basis](http://www.vogella.com/tutorials/MySQLJava/article.html#jdbc)
+3. [Jdbc basics](http://www.vogella.com/tutorials/MySQLJava/article.html#jdbc)
 
 ## Extra documentation:
 
