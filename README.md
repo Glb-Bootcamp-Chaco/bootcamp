@@ -31,8 +31,8 @@ The idea is to fork this project so everyone use the same folder structure for t
     * [Topic 3: Unit Testing with JUnit and Mockito](#topic-3-unit-testing-with-junit-and-mockito)
     * [Topic 4: Introduction to the Spring Framework](#topic-4-introduction-to-the-spring-framework)
     * [Topic 5: REST Application Design with Spring Boot](#topic-5-rest-application-design-with-spring-boot)
+    * [Topic 6: Database Interaction and ORMs with Spring Data](#optional-topic-database-interaction-and-orms)
 
-10. [Optional Topic: Database Interaction and ORMs](#optional-topic-database-interaction-and-orms)
 
 ## Objective
 
@@ -71,7 +71,7 @@ When you feel like you are good to go with a practice code, let trainers know an
 
 2. The IDE to use is [IntellIJ IDEA] (https://www.jetbrains.com/es-es/idea/download/). Community version  is enough for Bootcamp completion.
 
-3. [Download](https://slack.com/downloads) and install Slack's application. You will receive an invitation in your email to join to Slack's workspace *TBD* or just sign in to https://globant.slack.com and join the channel #java-bootcamp-inditex-all
+3. [Download](https://slack.com/downloads) and install Slack's application. You will receive an invitation in your email to join to Slack's workspace *glb-bootcamp-chaco* or just sign in to https://globant.slack.com and join the channel #java-bootcamp-inditex-all
 , please updated your profile picture with your face!
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
@@ -89,7 +89,7 @@ The Code Your Future bootcamp is organized in the following way:
 each trainee needs to read about the topics and jump into the coding excercises. An a Slack's channel by topic will be used to discuss with tutors and co-trainees about both theory and practice, and each on-site talk we are going to go through the outcome of Slack channel discussions, emphasizing about those topics that are causing more pain for all.
 
 Globant Workspace Slack's account would be used for technical assistance:
->#TBD
+>#glb-bootcamp-chaco
 
 Every person participating in the bootcamp is present here (trainees and trainners). Here is the place to ask for technical assistance!
 
