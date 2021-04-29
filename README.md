@@ -71,7 +71,7 @@ When you feel like you are good to go with a practice code, let trainers know an
 
 2. The IDE to use is [IntellIJ IDEA] (https://www.jetbrains.com/es-es/idea/download/). Community version  is enough for Bootcamp completion.
 
-3. [Download](https://slack.com/downloads) and install Slack's application. You will receive an invitation in your email to join to Slack's workspace *glb-bootcamp-chaco* or just sign in to https://globant.slack.com and join the channel #java-bootcamp-inditex-all
+3. [Download](https://slack.com/downloads) and install Slack's application. You will receive an invitation in your email to join to Slack's workspace *glb-bootcamp-chaco* or just sign in to https://glb-bootcamp-chaco.slack.com and join the channel #general
 , please updated your profile picture with your face!
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
