@@ -241,7 +241,7 @@ Transform your Farm Application into a Spring Project
 2. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 3. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 4. [Spring Boot Introduction](https://www.baeldung.com/spring-boot-start)
-5. [Building Rest Services With Spring - Practical Tutorial](http://spring.io/guides/tutorials/bookmarks/)
+5. [Building Rest Services With Spring - Practical Tutorial](https://spring.io/guides/tutorials/rest/)
 6. [REST API documentation with Swagger](http://swagger.io/getting-started/)
 
 ## Topic Practice
